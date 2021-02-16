@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[O21] Thaumrim (Continued)</name>
+  <packageId>Mlie.O21Thaumrim</packageId>
+  <author>Neronix17</author>
+  <url>https://github.com/emipa606/O21Thaumrim</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Neronix17s mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
+
+-The robes and hood will now be considered cultist-clothing if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2249174783]Call of Cthulhu - Cults[/url]
+- Removed dependencies since the mod never got content that required them
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/O21Thaumrim][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[b]Plans have been cut for this. I'm cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I've decided to cut. Sorry to those who've been waiting for the updates.[/b]
+
+Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld universe.
+
+[b]Currently Includes:[/b]
+[list][*]Crimson Cult Robes
+[*]Crimson Knight Armour[/list]
+
+[b]Future Plans:[/b]
+[list][*]Crimson Cult Faction and equipment, including buildings
+[*]Thaumaturgy, various spells and abilities to be researched and unlocked.
+[*]Essentia system
+[*]Vis system powering Thaumaturgical magics.
+[*]Loads of apparel and items.
+[*]Golems
+[*]Enemies other than the Crimson Cult
+[*]Events for said enemies and various other things.[/list]
+
+[h1][b]1.0 Load Order (1.1 handles it automatically):[/b][/h1]
+[list][*]Core 
+[*]HugsLib
+[*]JecsTools[/list]
+
+[b]Credit:[/b]
+[list][*]Neronix17 - As of latest version created everything in the mod not otherwise credited.
+[*]Jecrell - Apparel Shader to allow textures on crafted items to not be tainted by the colouring of the materials used.
+[*]Azanor - creator of Thaumcraft, the original mod for Minecraft this is based on.[/list]
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+

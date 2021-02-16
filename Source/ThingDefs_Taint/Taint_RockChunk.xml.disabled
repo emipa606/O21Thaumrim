@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<ThingDef>
+		<defName>O21_Thaum_ChunkTaintedStone</defName>
+		<label>tainted stone chunk</label>
+		<description>A chunk of rock. Too weak to be useful for any meaninful purpose.</description>
+		
+		<graphicData>
+			<texPath>Things/Item/Chunk/ChunkStone</texPath>
+			<graphicClass>Graphic_Random</graphicClass>
+			<flipExtraRotation>80</flipExtraRotation>
+			<color>(167, 66, 244)</color>
+		</graphicData>
+		
+		<statBases>
+			<Mass>6</Mass>
+			<MaxHitPoints>10</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Beauty>-12</Beauty>
+			<Cleanliness>-4</Cleanliness>
+		</statBases>
+		
+		<soundDrop>ChunkRock_Drop</soundDrop>
+		<selectable>true</selectable>
+		<pathCost>70</pathCost>
+		<pathCostIgnoreRepeat>true</pathCostIgnoreRepeat>
+		<drawerType>MapMeshOnly</drawerType>
+		<randomizeRotationOnSpawn>true</randomizeRotationOnSpawn>
+		<designateHaulable>true</designateHaulable>
+		<saveCompressible>true</saveCompressible>
+		<stackLimit>1</stackLimit>
+		<tradeability>None</tradeability>
+		<category>Item</category>
+		<thingClass>Thing</thingClass>
+		<altitudeLayer>Item</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.50</fillPercent>
+		
+		<thingCategories>
+			<li>StoneChunks</li>
+		</thingCategories>
+	</ThingDef>
+
+	</Defs>

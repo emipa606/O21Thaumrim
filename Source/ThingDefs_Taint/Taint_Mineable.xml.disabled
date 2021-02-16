@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- ================ Blackstone ================ -->
+
+	<ThingDef>
+		<defName>O21_Thaum_TaintedRock</defName>
+		<label>tainted rock</label>
+		<description>A weak easily broken rock, it seems to crumble just from touching it.</description>
+		<thingClass>Mineable</thingClass>
+		
+		<graphicData>
+			<texPath>Things/Building/Linked/Rock_Atlas</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<linkType>CornerFiller</linkType>
+			<linkFlags>
+				<li>Rock</li>
+				<li>MapEdge</li>
+			</linkFlags>
+			<color>(167, 66, 244)</color>
+		</graphicData>
+		
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Beauty>-4</Beauty>
+		</statBases>
+		
+		<category>Building</category>
+		<selectable>true</selectable>
+		<drawerType>MapMeshOnly</drawerType>
+		<filthLeaving>Filth_RubbleRock</filthLeaving>
+		<scatterableOnMapGen>false</scatterableOnMapGen>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<blockWind>true</blockWind>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>1</fillPercent>
+		<coversFloor>true</coversFloor>
+		<neverMultiSelect>true</neverMultiSelect>
+		<rotatable>false</rotatable>
+		<saveCompressible>true</saveCompressible>
+		<holdsRoof>true</holdsRoof>
+		<staticSunShadowHeight>1.0</staticSunShadowHeight>
+		<blockLight>true</blockLight>
+		<mineable>true</mineable>
+		
+		<building>
+			<claimable>false</claimable>
+			<isInert>true</isInert>
+			<isNaturalRock>false</isNaturalRock>
+			<canBuildNonEdificesUnder>false</canBuildNonEdificesUnder>
+			<deconstructible>false</deconstructible>
+			<mineableThing>O21_Thaum_ChunkTaintedStone</mineableThing>
+			<mineableDropChance>0.50</mineableDropChance>
+			<mineableYieldWasteable>false</mineableYieldWasteable>
+			<leaveTerrain>O21_Thaum_TaintedStoneRoughHewn</leaveTerrain>
+		</building>
+	</ThingDef>
+
+	</Defs>
