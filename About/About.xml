@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[O21] Thaumrim (Continued)</name>
   <packageId>Mlie.O21Thaumrim</packageId>
@@ -15,7 +15,7 @@
 Update of Neronix17s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 
--The robes and hood will now be considered cultist-clothing if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2249174783]Call of Cthulhu - Cults[/url]
+- The robes and hood will now be considered cultist-clothing if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2249174783]Call of Cthulhu - Cults[/url]
 - Removed dependencies since the mod never got content that required them
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
@@ -67,4 +67,3 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 [/list]
 </description>
 </ModMetaData>
-
