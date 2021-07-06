@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="Apparel_CultistRobes"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="CrimsonCultRobes" or defName="CrimsonCultHood"]/apparel/tags</xpath>
+      <value>
+        <li>CallOfCthulhu_FrenziedCultist</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="Apparel_PsyfocusRobe"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="CrimsonCultRobes" or defName="CrimsonCultHood"]/apparel/tags</xpath>
+          <value>
+            <li>Psychic</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="CrimsonCultRobes" or defName="CrimsonCultHood"]</xpath>
+          <value>
+            <tradeTags>
+              <li>PsychicApparel</li>
+            </tradeTags>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="CrimsonCultRobes"]</xpath>
+          <value>
+            <equippedStatOffsets>
+              <PsychicSensitivityOffset>0.20</PsychicSensitivityOffset>
+              <PsychicEntropyRecoveryRate>0.083</PsychicEntropyRecoveryRate>
+            </equippedStatOffsets>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="CrimsonCultHood"]</xpath>
+          <value>
+            <equippedStatOffsets>
+              <PsychicSensitivityOffset>0.4</PsychicSensitivityOffset>
+              <PsychicEntropyRecoveryRate>0.091</PsychicEntropyRecoveryRate>
+            </equippedStatOffsets>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

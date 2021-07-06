@@ -7,6 +7,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 
 - The robes and hood will now be considered cultist-clothing if using https://steamcommunity.com/sharedfiles/filedetails/?id=2249174783]Call of Cthulhu - Cults
 - Removed dependencies since the mod never got content that required them
+- Robes and Hood now have similar properties as the Psyfocus Robe and Skullcap if Royalty is used.
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
@@ -22,7 +23,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
-**Plans have been cut for this. I'm cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I've decided to cut. Sorry to those who've been waiting for the updates.**
+**Plans have been cut for this. I&apos;m cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I&apos;ve decided to cut. Sorry to those who&apos;ve been waiting for the updates.**
 
 Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld universe.
 
