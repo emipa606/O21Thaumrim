@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[O21] Thaumrim (Continued)</name>
   <packageId>Mlie.O21Thaumrim</packageId>
@@ -12,7 +12,7 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Neronix17s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 
@@ -20,17 +20,21 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 - Removed dependencies since the mod never got content that required them
 - Robes and Hood now have similar properties as the Psyfocus Robe and Skullcap if Royalty is used.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/O21Thaumrim][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
-[b]Plans have been cut for this. I&apos;m cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I&apos;ve decided to cut. Sorry to those who&apos;ve been waiting for the updates.[/b]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[b]Plans have been cut for this. I'm cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I've decided to cut. Sorry to those who've been waiting for the updates.[/b]
 
 Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld universe.
 
@@ -58,7 +62,7 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 [*]Jecrell - Apparel Shader to allow textures on crafted items to not be tainted by the colouring of the materials used.
 [*]Azanor - creator of Thaumcraft, the original mod for Minecraft this is based on.[/list]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
