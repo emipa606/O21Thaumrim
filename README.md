@@ -1,6 +1,6 @@
 # O21Thaumrim
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Neronix17s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
@@ -9,21 +9,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 - Removed dependencies since the mod never got content that required them
 - Robes and Hood now have similar properties as the Psyfocus Robe and Skullcap if Royalty is used.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/O21Thaumrim]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
-**Plans have been cut for this. I&apos;m cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I&apos;ve decided to cut. Sorry to those who&apos;ve been waiting for the updates.**
+**Plans have been cut for this. I'm cutting back on a lot of plans in terms of Rimworld mods and this is one of the ones I've decided to cut. Sorry to those who've been waiting for the updates.**
 
 Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld universe.
 
@@ -60,7 +51,7 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 - Azanor - creator of Thaumcraft, the original mod for Minecraft this is based on.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -70,6 +61,7 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
