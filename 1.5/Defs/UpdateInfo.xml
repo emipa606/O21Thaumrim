@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="O21Thaumrim_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2397464835</linkUrl>
+		<banner>UpdateInfo/O21Thaumrim</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="O21Thaumrim_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>O21Thaumrim_1_5_0</defName>
+		<date>2025/6/13</date>
+		<content>This mod has been re-released for the new version of the game. This version will remain but will not be updated further.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

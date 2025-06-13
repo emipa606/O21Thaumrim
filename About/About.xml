@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>[O21] Thaumrim (Continued)</name>
+  <name>[Legacy] [O21] Thaumrim (Continued)</name>
   <packageId>Mlie.O21Thaumrim</packageId>
   <author>Neronix17</author>
   <url>https://github.com/emipa606/O21Thaumrim</url>
@@ -18,6 +18,10 @@
 Update of Neronix17s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 
+[b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url].[/b]
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3498171167]here[/url].
+This version will not receive any further updates.
+
 - The robes and hood will now be considered cultist-clothing if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2249174783]Call of Cthulhu - Cults[/url]
 - Removed dependencies since the mod never got content that required them
 - Robes and Hood now have similar properties as the Psyfocus Robe and Skullcap if Royalty is used.
@@ -27,7 +31,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 [table]
     [tr]
         [td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-        [td][url=https://github.com/emipa606/O21Thaumrim][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/O21Thaumrim/tree/legacy][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
@@ -73,8 +77,8 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2397464835][img]https://img.shields.io/github/v/release/emipa606/O21Thaumrim?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
