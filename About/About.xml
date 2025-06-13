@@ -76,6 +76,5 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 [/list]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2397464835][img]https://img.shields.io/github/v/release/emipa606/O21Thaumrim?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modIconPath IgnoreIfNoMatchingField="True">ModIcon/O21Thaumrim</modIconPath>
   <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
 </ModMetaData>
