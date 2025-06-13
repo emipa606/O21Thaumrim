@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 177278396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e76aee1545a2bb091bfad8b82c8338e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e76aee1545a2bb091bfad8b82c8338e6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Thin_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Fat_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Male_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/Terrain/taintedSoil.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Thin_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Hulk_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/Terrain/taintedRoughHewnStone.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/etheralBloom.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/TaintSeed.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/Terrain/taintedSoftSand.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Female_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Female_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/VisShard/VisShard_a.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Fat_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Thin_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/auraNode.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultHood_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultHood.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Female_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Female_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Fat_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Thin_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/GrowingVisShard/growingVisShard_c.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Male_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Hulk_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Male_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightHelmet_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/VisShard/VisShard_b.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightHelmet_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Hulk_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Hulk_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightHelmet_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Male_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Thin_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Fat_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Male_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Thin_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/TreeSilverWood.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Fat_south.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/GrowingVisShard/growingVisShard_b.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/Terrain/taintedRoughStone.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/VisShard/VisShard_c.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultHood_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/Terrain/taintedSand.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Male_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Taint/Biome/taintedTree.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Female_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Magical/GrowingVisShard/growingVisShard_a.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightHelmet.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Hulk_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultRobes_Female_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/CultistRobes/CrimsonCultHood_north.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Hulk_east.png
+- Assets/Data/Mlie.O21Thaumrim/Textures/Things/Apparel/CrimsonCult/KnightArmour/CrimsonKnightArmour_Fat_north.png
+Dependencies: []

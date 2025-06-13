@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Crimson Cult -->
+  <CCultApparel.label>Crimson Cult</CCultApparel.label>
+  <!-- EN: Armour -->
+  <CCultArmour.label>Armour</CCultArmour.label>
+  <!-- EN: Clothing -->
+  <CCultClothing.label>Clothing</CCultClothing.label>
+  <!-- EN: Melee -->
+  <CCultMelee.label>Melee</CCultMelee.label>
+  <!-- EN: Ranged -->
+  <CCultRanged.label>Ranged</CCultRanged.label>
+  <!-- EN: Crimson Cult -->
+  <CCultWeapons.label>Crimson Cult</CCultWeapons.label>
+</LanguageData>

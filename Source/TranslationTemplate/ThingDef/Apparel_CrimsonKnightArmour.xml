@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: crimson knight armour -->
+  <CrimsonKnightArmour.label>crimson knight armour</CrimsonKnightArmour.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <CrimsonKnightArmour.description>Overlapping solid plates of armor covering the entire body from neck to feet.</CrimsonKnightArmour.description>
+  <!-- EN: crimson knight helmet -->
+  <CrimsonKnightHelmet.label>crimson knight helmet</CrimsonKnightHelmet.label>
+  <!-- EN: A tough reinforced helmet, not very effective against blunt weapons. -->
+  <CrimsonKnightHelmet.description>A tough reinforced helmet, not very effective against blunt weapons.</CrimsonKnightHelmet.description>
+</LanguageData>

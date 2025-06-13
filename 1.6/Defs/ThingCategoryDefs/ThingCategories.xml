@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Star Gothic - Catagories -->
+  <!-- CCult -->
+  <!-- Weapons -->
+  <ThingCategoryDef>
+    <defName>CCultWeapons</defName>
+    <label>Crimson Cult</label>
+    <parent>Weapons</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CCultRanged</defName>
+    <label>Ranged</label>
+    <parent>CCultWeapons</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CCultMelee</defName>
+    <label>Melee</label>
+    <parent>CCultWeapons</parent>
+  </ThingCategoryDef>
+  <!-- Apparel -->
+  <ThingCategoryDef>
+    <defName>CCultApparel</defName>
+    <label>Crimson Cult</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CCultArmour</defName>
+    <label>Armour</label>
+    <parent>CCultApparel</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CCultClothing</defName>
+    <label>Clothing</label>
+    <parent>CCultApparel</parent>
+  </ThingCategoryDef>
+</Defs>

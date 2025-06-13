@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: crimson cult hood -->
+  <CrimsonCultHood.label>crimson cult hood</CrimsonCultHood.label>
+  <!-- EN: A soft thick hood, provides decent cold protection. -->
+  <CrimsonCultHood.description>A soft thick hood, provides decent cold protection.</CrimsonCultHood.description>
+  <!-- EN: crimson cult robe -->
+  <CrimsonCultRobes.label>crimson cult robe</CrimsonCultRobes.label>
+  <!-- EN: A full body robe, provides comfortable protection from weather and war. -->
+  <CrimsonCultRobes.description>A full body robe, provides comfortable protection from weather and war.</CrimsonCultRobes.description>
+</LanguageData>
