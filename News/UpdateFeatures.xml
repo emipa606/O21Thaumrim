@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="O21Thaumrim_UpdateFeatureBase">
+		<modNameReadable>O21Thaumrim</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3498171167</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="O21Thaumrim_UpdateFeatureBase">
+		<defName>O21Thaumrim_1_6_1</defName>
+		<assemblyVersion>1.6.1</assemblyVersion>
+		<content>This mod has been re-released for the new version of the game. This version will remain but will not be updated further.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+

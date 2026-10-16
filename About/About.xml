@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>[O21] Thaumrim (Continued)</name>
+  <name>[1.6] [O21] Thaumrim (Continued)</name>
   <packageId>Mlie.O21Thaumrim</packageId>
   <author>Neronix17</author>
   <url>https://github.com/emipa606/O21Thaumrim</url>
@@ -13,8 +13,9 @@
 Update of Neronix17s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1567775191
 
-[b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url][/b].
-To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2397464835]here[/url].
+[b]The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance[/b].
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3820977664]here[/url].
+This version will not receive any further updates.
 
 - The robes and hood will now be considered cultist-clothing if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2249174783]Call of Cthulhu - Cults[/url]
 - Removed dependencies since the mod never got content that required them
@@ -25,7 +26,7 @@ To avoid doubling the size of the mod, it was re-released using only Asset Bundl
 [table]
     [tr]
         [td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td]
-        [td][url=https://github.com/emipa606/O21Thaumrim][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/O21Thaumrim/tree/assetbundles][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
@@ -73,7 +74,6 @@ Thaumcraft (a veteran Minecraft mod by Azanor) introduced to the Rimworld univer
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3498171167][img]https://img.shields.io/github/v/release/emipa606/O21Thaumrim?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  thaumcraft
-</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3498171167][img]https://img.shields.io/github/v/release/emipa606/O21Thaumrim?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | thaumcraft</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.2</modVersion>
 </ModMetaData>
