@@ -5,5 +5,11 @@
   "PreviewVersion": "1.6",
   "LastXmlCleaning": "2025-06-14T19:58:26.4186626+02:00",
   "SocialImageSet": true,
-  "SearchTags": " thaumcraft"
+  "SearchTags": " thaumcraft",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 10815,
+  "CodeBaseSize": 63
 }
